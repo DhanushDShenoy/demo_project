@@ -1,4 +1,6 @@
 # demo_project
 
 this is a demo project
-dhanush
+dhanush shenoy
+cse cec
+computer science
